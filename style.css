@@ -1,0 +1,27 @@
+div.bloque{
+    display:inline-flex;
+}
+p.rojo{
+    background-color: red;
+}
+p.azul{
+    background-color: blue;
+}
+p.amarillo{
+    background-color: yellow;
+}
+p.back{
+    background-color:lightblue;
+}
+span.sub{
+    text-decoration-line: underline;
+}
+p.marron{
+    color: brown;
+}
+h4{
+    text-align: center;
+}
+p.verde{
+    background-color: green;
+}
